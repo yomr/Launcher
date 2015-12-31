@@ -1,0 +1,8 @@
+{
+	"project1": {
+		"working-directory": "/home/user/someproject"
+	},
+	"project2": {
+		"working-directory": "/home/user/x/y/project2"
+	}
+}
