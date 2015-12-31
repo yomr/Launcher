@@ -1,10 +1,9 @@
 # Launcher
  A simple script that launches all your working directories from the terminal
 
-A simple script that launches all your working directories from the terminal
-
-Its monotonous task to navigate to multiple working directories first thing in the morning after I boot my machine in office.
-Hence, I wrote a quick script that will automatically launch all my pre-configured directories.
+Have you faced the problem of navigating to multiple working directories when you start your day in office? This gets more
+hectic when you have a bigger project and you have to cd to many directories to get started with your work.
+Hence, I wrote a quick script that will automatically launch all pre-configured directories.
 
 ## Setup
 1) Clone the repository in any directory.
